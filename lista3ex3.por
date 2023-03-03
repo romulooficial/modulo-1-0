@@ -29,7 +29,7 @@ programa
 
          
 
-      se (quantidadefilhos > maiorsalario){
+   se (quantidadefilhos > maiorsalario){
            	maiorsalario = quantidadefilhos
            }
 	     mediadefilhos = mediadefilhos + quantidadefilhos
@@ -50,7 +50,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 572; 
+ * @POSICAO-CURSOR = 570; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
